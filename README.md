@@ -1,6 +1,4 @@
-# Project Title
-
-FPGA-Pixel-Processing-Unit
+# FPGA-Pixel-Processing-Unit
 
 The Pixel Processing Unit (PPU) was originally a microprocessor in the Nintendo Entertainment
 System that generates video signals from graphic data stored in memory (game cartridges). It
