@@ -26,7 +26,7 @@ Proper installation of Quartus II/[Quartus Prime](https://www.altera.com/downloa
 
 ## Documentation
 
-See [PPU_Documentation](https://github.com/JamesG321/FPGA-Pixel-Processing-Unit/blob/master/PPU%20Documentation.pdf) for detailed explanation of overall architecture and detailed explanation of individual modules.
+See [PPU_Documentation](https://github.com/JamesG321/FPGA-Pixel-Processing-Unit/blob/master/PPU%20Documentation.pdf) for detailed explanation of overall architecture and individual modules.
 
 ## Authors
 
